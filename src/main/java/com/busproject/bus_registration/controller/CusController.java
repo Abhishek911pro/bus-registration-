@@ -10,6 +10,6 @@ public class CusController {
 
     @GetMapping("/show")
     public String show(){
-        return "abhi";
+        return "Bhartendu";
     }
 }
